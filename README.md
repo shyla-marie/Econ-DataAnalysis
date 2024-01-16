@@ -4,4 +4,4 @@
 
 **Data Exploration & Analysis**: housingwages.ipynb
 
-**Datasets**: morg_96.csv & housing_supply.dta
+**Datasets**: morg96_sample.csv & housing_supply.dta
